@@ -1,2 +1,2 @@
 # 13-h-ici-weatherApp
-# Water-App
+# Weather-App
